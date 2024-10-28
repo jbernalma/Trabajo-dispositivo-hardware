@@ -1,0 +1,34 @@
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2px;
+}
+
+nav {
+    background-color: #444;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a {
+    display: block;
+    padding: 1rem 2rem;
+    color: #fff;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2px;
+}
+
+.imagen{
+    text-align: center;
+}
